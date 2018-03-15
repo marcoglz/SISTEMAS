@@ -1,0 +1,7 @@
+En el presente codigo se explicara el codigo de una alarma de una puerta,
+  en la cual al momento de abrirla, genera un sonido y enciende una luz la 
+  cual indica que la puerta esta abierta, y cuando la puerta esta cerrada
+  el arduino entra en modo sleep, y el buzzer de sonido y el led que nos 
+  indica que la puerta esta abierta se apagan, y al momento de que el reed 
+  switch detecta que se encuetra abierta la puerta, el arduino deja el modo 
+  sleep y entra en funcionamiento de nuevo. Teniendo un ahorro de energia
